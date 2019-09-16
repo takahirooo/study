@@ -29,3 +29,5 @@ takahirooo
   - [はてなブックマーク](https://b.hatena.ne.jp/)・・・私の情報源です。
   - [facebook](https://www.facebook.com/)・・・最近はイベント情報などを主に得ています。
   - [Amazon](https://amazon.co.jp)・・・私の生活では必須サービスです。
+
+  
